@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "619cd62a569d880dfa30ce85",
+    "name": "Anubis",
+    "details": "Anubis Book",
+    "category":
+    {
+      "_id": "619bcaf853daeee145a87b2c",
+      "name": "Fiction",
+      "__v": 0
+    },
+    "author":
+    {
+      "books":
+      [],
+      "_id": "619a8550e9c1f30c7e473a85",
+      "pic": "images/oscar.jpg",
+      "firstName": "Oscar",
+      "lastName": "Wilde",
+      "dob": "2021-11-03T00:00:00.000Z",
+      "bio": "A very talented Author and writer",
+      "__v": 0
+    },
+    "cover": "images/anubis.jpg",
+    "reviews":
+    [],
+    "__v": 0,
+    "avgRating": null,
+    "userReview":
+    {}
+  },
+  {
+    "_id": "619cd656569d880dfa30ce88",
+    "name": "Clementine",
+    "details": "Clementine Pacifier",
+    "category":
+    {
+      "_id": "619bcaf853daeee145a87b2c",
+      "name": "Fiction",
+      "__v": 0
+    },
+    "author":
+    {
+      "books":
+      [],
+      "_id": "619a8550e9c1f30c7e473a85",
+      "pic": "images/oscar.jpg",
+      "firstName": "Oscar",
+      "lastName": "Wilde",
+      "dob": "2021-11-03T00:00:00.000Z",
+      "bio": "A very talented Author and writer",
+      "__v": 0
+    },
+    "cover": "images/clementine.jpg",
+    "reviews":
+    [],
+    "__v": 0,
+    "avgRating": null,
+    "userReview":
+    {}
+  },
+  {
+    "_id": "619cd681569d880dfa30ce8d",
+    "name": "Boneshaker",
+    "details": "The Boneshaker Horror Story",
+    "category":
+    {
+      "_id": "619bcaf853daeee145a87b2c",
+      "name": "Fiction",
+      "__v": 0
+    },
+    "author":
+    {
+      "books":
+      [],
+      "_id": "619a8550e9c1f30c7e473a85",
+      "pic": "images/oscar.jpg",
+      "firstName": "Oscar",
+      "lastName": "Wilde",
+      "dob": "2021-11-03T00:00:00.000Z",
+      "bio": "A very talented Author and writer",
+      "__v": 0
+    },
+    "cover": "images/boneshaker.jpg",
+    "reviews":
+    [],
+    "__v": 0,
+    "shelve": "619cd871b72a340eb19bc166",
+    "avgRating": null,
+    "userReview":
+    {}
+  },
+  {
+    "_id": "619cd699569d880dfa30ce8f",
+    "name": "Buntline",
+    "details": "The Buntline Stories",
+    "category":
+    {
+      "_id": "619bcaf853daeee145a87b2c",
+      "name": "Fiction",
+      "__v": 0
+    },
+    "author":
+    {
+      "books":
+      [],
+      "_id": "619a8550e9c1f30c7e473a85",
+      "pic": "images/oscar.jpg",
+      "firstName": "Oscar",
+      "lastName": "Wilde",
+      "dob": "2021-11-03T00:00:00.000Z",
+      "bio": "A very talented Author and writer",
+      "__v": 0
+    },
+    "cover": "images/buntline.jpg",
+    "reviews":
+    [],
+    "__v": 0,
+    "avgRating": null,
+    "userReview":
+    {}
+  }
+]

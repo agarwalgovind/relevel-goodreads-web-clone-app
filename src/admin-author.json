@@ -1,0 +1,35 @@
+[
+  {
+    "books":
+    [],
+    "_id": "619a8550e9c1f30c7e473a85",
+    "pic": "images/oscar.jpg",
+    "firstName": "Oscar",
+    "lastName": "Wilde",
+    "dob": "2021-11-03T00:00:00.000Z",
+    "bio": "A very talented Author and writer",
+    "__v": 0
+  },
+  {
+    "books":
+    [],
+    "_id": "619bc8c753daeee145a87b25",
+    "firstName": "Mark",
+    "lastName": "Twain",
+    "dob": "2021-11-08T00:00:00.000Z",
+    "bio": "A great writer of history novels",
+    "pic": "images/mark.jpg",
+    "__v": 0
+  },
+  {
+    "books":
+    [],
+    "_id": "619bc93c53daeee145a87b27",
+    "firstName": "Albert",
+    "lastName": "Einstein",
+    "dob": "2021-11-07T00:00:00.000Z",
+    "bio": "dd",
+    "pic": "images/albert.jpg",
+    "__v": 0
+  }
+]

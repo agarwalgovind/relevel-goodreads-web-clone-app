@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "619cd62a569d880dfa30ce85",
+    "name": "Anubis",
+    "details": "Anubis Book",
+    "category": "619bcaf853daeee145a87b2c",
+    "author": "619a8550e9c1f30c7e473a85",
+    "cover": "images/anubis.jpg",
+    "reviews":
+    [],
+    "__v": 0
+  },
+  {
+    "_id": "619cd656569d880dfa30ce88",
+    "name": "Clementine",
+    "details": "Clementine Pacifier",
+    "category": "619bcaf853daeee145a87b2c",
+    "author": "619a8550e9c1f30c7e473a85",
+    "cover": "images/clementine.jpg",
+    "reviews":
+    [],
+    "__v": 0
+  },
+  {
+    "_id": "619cd681569d880dfa30ce8d",
+    "name": "Boneshaker",
+    "details": "The Boneshaker Horror Story",
+    "category": "619bcaf853daeee145a87b2c",
+    "author": "619a8550e9c1f30c7e473a85",
+    "cover": "images/boneshaker.jpg",
+    "reviews":
+    [],
+    "__v": 0,
+    "shelve": "619cd871b72a340eb19bc166"
+  },
+  {
+    "_id": "619cd699569d880dfa30ce8f",
+    "name": "Buntline",
+    "details": "The Buntline Stories",
+    "category": "619bcaf853daeee145a87b2c",
+    "author": "619a8550e9c1f30c7e473a85",
+    "cover": "images/buntline.jpg",
+    "reviews":
+    [],
+    "__v": 0
+  }
+]
